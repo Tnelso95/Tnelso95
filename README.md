@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there 👋
+
+I’m Tomas Nelson, a computer science student at Gustavus Adolphus College with a strong focus on applied problem-solving, data modeling, and building practical tools.
+
+
 
 <!--
 **Tnelso95/Tnelso95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
